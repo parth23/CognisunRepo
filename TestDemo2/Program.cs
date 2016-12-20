@@ -11,7 +11,6 @@ namespace TestDemo2
         static void Main(string[] args)
         {
             Console.Write("Test Demo2");
-            Console.Write("");
         }
     }
 }
